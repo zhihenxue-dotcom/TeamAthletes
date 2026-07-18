@@ -10,7 +10,7 @@ Thank you very much for taking the time to review our work. Below is a brief des
    These files contain the experimental results presented in an interactive format:
 
    - **please_click_me.html**  
-     This is the homepage of the project. By opening the `please_click_me.html` file in a browser, you can view the main experimental results and demonstrations.
+     This is the homepage of the project. By opening the `index.html` file in a browser, you can view the main experimental results and demonstrations.
 
    - **css/**  
      This folder contains the CSS files used for styling the homepage.
@@ -26,5 +26,5 @@ Thank you very much for taking the time to review our work. Below is a brief des
 
 ## Usage Instructions
 
-To view the experiment, simply open the `please_click_me.html` file in your web browser. Thank you.
+To view the experiment, simply open the `index.html` file in your web browser. Thank you.
 
